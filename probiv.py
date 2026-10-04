@@ -5,7 +5,7 @@ from aiogram.types import (Message, CallbackQuery, LabeledPrice,
                            PreCheckoutQuery, InlineKeyboardMarkup, InlineKeyboardButton)
 from aiogram.client.default import DefaultBotProperties
 
-TOKEN = "8978953404:AAF5HwkMNAuxbrYvPGWzbXps5gqslst84k"
+TOKEN = "8978953404:AAHZMU9ZJ0ujVmrN6ES2BlwBsAGOoEPF9E8"
 OWNER_ID = 8624065969          # твой id из @userinfobot
 PRICE = 5                     # звёзд за запрос
 FREE = 3                      # бесплатных на старте
